@@ -1,5 +1,5 @@
 
-## Crud criado com PHP e MSQL.
+## Crud Criado com PHP e MSQL.
 
 
 * **Projeto ultilizando o Xampp **   Phpmyadmin,  Html e Bootstrap.**

@@ -2,7 +2,7 @@
 ## Crud Criado com PHP e MSQL.
 
 
-* **Projeto ultilizando o Xampp **   Phpmyadmin,  Html e Bootstrap.**
+* **Projeto ultilizando Xampp, Phpmyadmin,  Html e Bootstrap.**
 * **Página de cadastro de veiculos, Praticando Crud com PHP.**
 * **Ferramentas Ide Vs Code**
 

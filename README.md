@@ -13,7 +13,7 @@
 🤝
 ## 🚀 About me
 **Graduado em Análise e Desenvolvimento de Sistemas.**
-Estou em transição de carreira.  
+ 
 
 
 ## 🔗 Links
